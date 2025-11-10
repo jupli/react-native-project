@@ -1,0 +1,5 @@
+{
+  "name": "Cal AI Clone",
+  "description": "A web-based clone of the Cal AI mobile application, designed to provide nutritional analysis of food from images using the Gemini API. It features meal logging, progress tracking with charts, and a mobile-first, dark-themed user interface.",
+  "requestFramePermissions": []
+}
